@@ -50,14 +50,6 @@ Digite o endereço IP para verificar: 187.94.52.102
 O IP 187.94.52.102 pertence ao Brasil.
 ```
 
-## Improvements
-
-Future improvements may include:
-
-- Supporting batch processing of multiple IP addresses.
-- Adding more detailed information about the IP (city, region, ISP).
-- Saving results to a file.
-
 ## Contributing
 
 Feel free to open issues or submit pull requests if you would like to contribute to this project.
